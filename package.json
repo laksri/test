@@ -1,0 +1,8 @@
+{
+  "name": "conllu2json",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {
+    "conllu-stream": "^0.0.1"
+  }
+}
